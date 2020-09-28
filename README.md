@@ -5,7 +5,7 @@ Replace "YOUR-TOKEN-b123cb312ced1341f13ed213c" with your Unsplash token in <b>ap
 
 <h3>Running Application</h3>
 
-<img src="https://dl.dropboxusercontent.com/s/y1vrdkgwk3u2mru/unsplash-gallery-gif.gif?dl=0" width="250" height="auto"/>
+<img src="assets/view/unsplash-gallery-gif.gif" width="250" height="auto"/>
 
 <h3>Screenshots</h3>
 
